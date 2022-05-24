@@ -13,8 +13,10 @@ public class Testing : MonoBehaviour
         private int data;
     }
 
-    if(5>6||true){
-        
+    if(5>6||true){//Mas
+        //mas
+    }else{
+//mas
     }
 
 }
