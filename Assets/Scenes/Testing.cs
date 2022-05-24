@@ -13,7 +13,7 @@ public class Testing : MonoBehaviour
         private int data;
     }
 
-    if(5>6){
+    if(5>6||true){
         
     }
 
