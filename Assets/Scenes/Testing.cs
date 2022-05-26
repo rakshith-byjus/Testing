@@ -16,8 +16,11 @@ public class Testing : MonoBehaviour
     if(5>6||true){//Mas
         //mas
     }else{
-
     }
+
+    if(5>6||false){//dev-1
+            }
+
 
 }
 
