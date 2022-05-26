@@ -6,21 +6,8 @@ using System;
 
 public class Testing : MonoBehaviour
 {
-    [CMSType]
-    class Data
-    {
-        //[CMSField]
-        private int data;
+    if(5>6){
+        
     }
-
-    if(5>6||true){//Mas
-        //mas
-    }else{
-    }
-
-    if(5>6||false){//dev-1
-            }
-
-
 }
 
