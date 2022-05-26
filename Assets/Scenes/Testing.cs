@@ -13,10 +13,15 @@ public class Testing : MonoBehaviour
         private int data;
     }
 
+<<<<<<< HEAD
     if(5>6||true){//Mas
         //mas
     }else{
 
+=======
+    if(5>6||false){
+        
+>>>>>>> d738485 (data changed)
     }
 
 }
